@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://by.com.vn/content/Logo-en.png
   name: Status - By.com.vn
   introTitle: "Status - By.com.vn"
-  introMessage: "Status - By.com.vn"
+  introMessage: Status - By.com.vn
   navbar:
     - title: Status - By.com.vn
       href: /status
