@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/by.com.vn.ico",
     "slug": "mainsite",
     "status": "down",
-    "uptime": "12.95%",
+    "uptime": "12.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 280,
-    "timeDay": 241,
-    "timeWeek": 266,
-    "timeMonth": 298,
+    "timeDay": 177,
+    "timeWeek": 256,
+    "timeMonth": 287,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-02-19": 1370,
+      "2025-02-20": 74,
+      "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
@@ -379,8 +380,7 @@
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
-      "2024-02-22": 1440,
-      "2024-02-21": 1440
+      "2024-02-22": 1440
     }
   },
   {
@@ -390,18 +390,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 119,
-    "timeWeek": 175,
-    "timeMonth": 192,
+    "timeDay": 191,
+    "timeWeek": 192,
+    "timeMonth": 184,
     "timeYear": 230,
-    "dailyMinutesDown": {
-      "2025-02-19": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -414,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 335,
-    "timeDay": 379,
-    "timeWeek": 262,
-    "timeMonth": 276,
-    "timeYear": 322,
+    "time": 336,
+    "timeDay": 392,
+    "timeWeek": 303,
+    "timeMonth": 277,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2024-04-26": 16,
       "2024-02-29": 22
