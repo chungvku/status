@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/by.com.vn.ico",
     "slug": "mainsite",
     "status": "down",
-    "uptime": "13.11%",
+    "uptime": "13.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "23.55%",
     "uptimeYear": "3.70%",
-    "time": 310,
-    "timeDay": 309,
-    "timeWeek": 338,
-    "timeMonth": 670,
-    "timeYear": 336,
+    "time": 311,
+    "timeDay": 531,
+    "timeWeek": 370,
+    "timeMonth": 677,
+    "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-05-18": 706,
+      "2025-05-19": 87,
+      "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -368,8 +369,7 @@
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
-      "2024-05-20": 1440,
-      "2024-05-19": 1440
+      "2024-05-20": 1440
     }
   },
   {
@@ -384,9 +384,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 399,
-    "timeWeek": 249,
-    "timeMonth": 168,
+    "timeDay": 357,
+    "timeWeek": 277,
+    "timeMonth": 172,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -397,18 +397,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
-    "timeDay": 274,
-    "timeWeek": 311,
-    "timeMonth": 314,
+    "timeDay": 188,
+    "timeWeek": 324,
+    "timeMonth": 310,
     "timeYear": 337,
-    "dailyMinutesDown": {
-      "2025-05-18": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
